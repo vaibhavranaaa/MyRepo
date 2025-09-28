@@ -25,6 +25,7 @@ You can open and run the notebook directly in Colab:
 
 ## 🔗 Connect with me
 [Linkdin] www.linkedin.com/in/vaibhavranaaa
+
 [Leetcode] https://leetcode.com/u/vaibhavranaaaa/
 ---
 👤 Author: **Vaibhav Rana**
