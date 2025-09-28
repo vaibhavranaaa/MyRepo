@@ -24,8 +24,8 @@ You can open and run the notebook directly in Colab:
 *(Datasets are not included here due to size, but can be linked if required.)*
 
 ## 🔗 Connect with me
-
 [Linkdin] www.linkedin.com/in/vaibhavranaaa
+
 [Leetcode] https://leetcode.com/u/vaibhavranaaaa/
 ---
 👤 Author: **Vaibhav Rana**
